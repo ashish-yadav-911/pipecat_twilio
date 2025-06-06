@@ -1,0 +1,341 @@
+2025-05-09 13:41:46,429 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-09 13:41:46,893 - voice_agent - ERROR - Error initiating outbound call: 'ResponseObject' object has no attribute 'message_uuid'
+2025-05-09 13:42:07,529 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-09 13:42:07,530 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-09 13:42:08,393 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-09 13:42:08,394 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-09 15:19:24,641 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 15:19:24,742 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 15:58:20,996 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 15:58:21,111 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 15:58:53,533 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-09 15:58:55,160 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: {'api_id': '8fb98630-b705-4335-8768-5472ef9b7a09',
+ 'message': 'call queued',
+ 'request_uuid': '375a860b-8bb0-459d-a7b5-486a17b16555'}
+2025-05-09 15:58:55,160 - voice_agent - ERROR - Error initiating outbound call: 'ResponseObject' object has no attribute 'message_uuid'
+2025-05-09 15:59:06,158 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-09 15:59:06,159 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-09 15:59:07,127 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-09 15:59:07,127 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-09 16:00:07,502 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:00:07,630 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:01:47,268 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:01:47,417 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:01:57,516 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:01:57,565 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:02:07,252 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-09 16:02:07,723 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 562e1ee0-875c-43ac-b239-cc66e1a38fdd
+2025-05-09 16:02:18,528 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-09 16:02:18,529 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-09 16:02:19,414 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-09 16:02:19,414 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-09 16:03:40,777 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:03:40,863 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:03:58,019 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:03:58,023 - voice_agent - INFO - Starting FastAPI server.
+2025-05-09 16:04:01,426 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:04:01,505 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-09 16:04:08,897 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-09 16:04:09,393 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 6266ae52-2b57-452a-9c07-e5a8b6ed3869
+2025-05-09 16:04:16,169 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-09 16:04:16,169 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-09 16:04:16,240 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-09 16:04:16,284 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 0aac8dee-14ad-4167-8026-4dd8c8719ea0
+2025-05-09 16:04:21,173 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-09 16:04:21,173 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-09 16:04:40,173 - voice_agent - INFO - WebSocket connection closed.
+2025-05-13 11:02:54,438 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:02:54,440 - voice_agent - INFO - Starting FastAPI server.
+2025-05-13 11:02:59,608 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:02:59,735 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:03:14,758 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-13 11:03:16,983 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: a011844a-c368-4b8b-92a1-4270444fa2ed
+2025-05-13 11:03:33,161 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-13 11:03:33,162 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-13 11:06:27,436 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-13 11:06:27,830 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 05e18929-139d-455d-85eb-a3c0f19766d5
+2025-05-13 11:07:30,135 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-13 11:07:30,136 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-13 11:09:40,054 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-13 11:09:40,357 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 2f91db6f-2a1d-4de0-b0c1-81b2c7c436f4
+2025-05-13 11:10:16,842 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-13 11:10:16,843 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-13 11:10:46,977 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:10:46,979 - voice_agent - INFO - Starting FastAPI server.
+2025-05-13 11:10:50,363 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:10:50,454 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:10:58,545 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-13 11:10:59,046 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 827eb9a9-59bb-4b27-8abc-3dfbf3b2f138
+2025-05-13 11:11:35,842 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:11:35,844 - voice_agent - INFO - Starting FastAPI server.
+2025-05-13 11:11:42,166 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:11:42,274 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-13 11:11:42,501 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-13 11:11:42,871 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 7d1df3ef-26f4-4332-9ed4-ad52c5182b3f
+2025-05-13 11:12:20,028 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-13 11:12:20,028 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-13 11:12:20,920 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-13 11:12:20,921 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-19 12:48:43,004 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 12:48:43,006 - voice_agent - INFO - Starting FastAPI server.
+2025-05-19 12:48:47,384 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 12:48:47,487 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 12:49:46,334 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-19 12:49:47,449 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 39f0e2db-d3b5-4d74-8dc6-854cf14ed61a
+2025-05-19 12:54:41,886 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 12:54:41,896 - voice_agent - INFO - Starting FastAPI server.
+2025-05-19 12:54:47,512 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 12:54:47,637 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 12:54:55,597 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-19 12:54:56,054 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 1010aabc-5da3-4e6e-86a0-4c6f2dcecfe3
+2025-05-19 12:55:04,481 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 12:55:04,482 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-19 12:55:05,376 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 12:55:05,377 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-19 13:01:40,108 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 13:01:40,216 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 13:02:00,739 - voice_agent - INFO - Root endpoint accessed.
+2025-05-19 13:02:28,022 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 13:02:28,023 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-19 13:02:42,521 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-19 13:02:42,957 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 101ea309-1f3e-4462-bda3-cbc6d2f9541d
+2025-05-19 13:02:54,828 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 13:02:54,828 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-19 13:03:00,481 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 13:03:00,482 - voice_agent - INFO - Generated response XML for webhook.
+2025-05-19 13:06:44,469 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 13:06:44,623 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 13:06:53,590 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 13:06:53,785 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 13:07:14,374 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 13:07:14,473 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 13:07:19,334 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-19 13:07:20,153 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 310e9fd7-2b6c-4d2d-a9ff-027a68d7e7ee
+2025-05-19 13:07:27,422 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 13:07:27,509 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-19 13:07:27,545 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 4171a2f5-d2a6-4906-b871-334cde3000ec
+2025-05-19 13:07:32,422 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 13:07:51,437 - voice_agent - INFO - WebSocket connection closed.
+2025-05-19 14:08:32,271 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 14:08:32,411 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 14:14:08,432 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-19 14:14:09,069 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: ebaf5e2d-ceb3-4a5d-9f6c-4574f9689716
+2025-05-19 14:14:16,348 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 14:14:16,591 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-19 14:14:16,667 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 9074e2fd-70e2-4128-bc1c-bdef20500e49
+2025-05-19 14:14:22,370 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 14:14:41,486 - voice_agent - INFO - WebSocket connection closed.
+2025-05-19 14:22:30,862 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 14:22:30,961 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 15:44:18,948 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 15:44:19,111 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 15:44:26,597 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-19 15:44:27,037 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 67c115b3-0e8b-46d6-9d3b-bfe171d86351
+2025-05-19 15:44:33,458 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 15:44:33,600 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-19 15:44:33,637 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 88142bbc-a030-4614-a9d2-cca8271455a5
+2025-05-19 15:44:38,866 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-19 15:44:57,912 - voice_agent - INFO - WebSocket connection closed.
+2025-05-19 15:45:27,087 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-19 15:45:27,307 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:09:24,385 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:09:24,768 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:10:04,918 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:10:05,024 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:10:15,187 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:10:15,191 - voice_agent - INFO - Starting FastAPI server.
+2025-05-20 17:10:18,385 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:10:18,439 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:10:24,252 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-20 17:10:24,830 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 24c8fc22-35b7-42d4-9e3c-f374592f5fdd
+2025-05-20 17:10:31,170 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:10:35,678 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:12:21,232 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:12:21,341 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:13:00,014 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-20 17:13:00,511 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 888cd375-20e2-4bce-8704-f14ccce02f69
+2025-05-20 17:13:27,708 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:13:27,813 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-20 17:13:27,859 - voice_agent - INFO - WebSocket connection accepted. Stream ID: ea2a61e1-9e5f-4ff2-9d42-8b2e66b0d9c3
+2025-05-20 17:13:41,225 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:13:43,409 - voice_agent - INFO - WebSocket connection closed.
+2025-05-20 17:13:47,154 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-20 17:13:47,247 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: a55964a5-5929-4755-b889-0462828cd7b6
+2025-05-20 17:14:16,368 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:14:16,577 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-20 17:14:16,624 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 20daf71a-6a1a-462a-9f69-a6f99c71a957
+2025-05-20 17:15:03,758 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:15:05,400 - voice_agent - INFO - WebSocket connection closed.
+2025-05-20 17:17:26,777 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:17:26,957 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:19:17,980 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:19:18,185 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:19:48,121 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:19:48,224 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:20:01,817 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-20 17:20:02,630 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: d9b0b37c-47e3-4fc5-bec8-8af390b0d7a8
+2025-05-20 17:20:31,332 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:20:31,448 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-20 17:20:31,491 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 0e4c0dac-c3b4-450e-a5af-a53ad0e796c2
+2025-05-20 17:21:04,698 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:21:06,616 - voice_agent - INFO - WebSocket connection closed.
+2025-05-20 17:21:32,226 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:21:32,481 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:21:38,260 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:21:38,331 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-20 17:21:45,962 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-20 17:21:49,403 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 50bca3af-e481-4322-9789-fd47164e9454
+2025-05-20 17:22:18,207 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:22:18,294 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-20 17:22:18,352 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 02508f3f-f00d-4c0a-aea0-8d4e65b524c4
+2025-05-20 17:22:57,224 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-20 17:22:59,659 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 11:26:27,381 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 11:26:27,390 - voice_agent - INFO - Starting FastAPI server.
+2025-05-21 11:26:30,381 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 11:26:30,475 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 11:28:20,291 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 11:28:21,580 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 26942b8e-5cb0-4937-b5d5-13029eb10896
+2025-05-21 11:28:57,420 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 11:28:57,640 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 11:28:57,674 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 335aa91f-8bc2-4228-b24a-60da13662d9d
+2025-05-21 11:29:09,873 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 11:29:10,789 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 11:36:03,482 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 11:36:03,558 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 11:36:06,997 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 11:36:07,570 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 85deee9c-32fd-4ac4-9a81-489d284a5d69
+2025-05-21 11:36:16,611 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 11:36:16,665 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 11:36:16,703 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 24fc972c-8b18-4b19-bc7d-55293613b955
+2025-05-21 11:36:23,879 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 11:36:24,669 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 11:38:24,876 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 11:38:24,976 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 12:01:24,989 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 12:01:25,448 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 484bae83-6cf2-4758-9396-c4157f730f63
+2025-05-21 12:01:35,330 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 12:01:35,392 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 12:01:35,436 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 02e60bc5-4ea5-4ff8-a0f6-9bdca2c673ff
+2025-05-21 12:01:52,590 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 12:01:55,182 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 12:03:02,494 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 12:03:02,783 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 46727c78-2e12-4a5f-a1ef-2542e734e463
+2025-05-21 12:03:37,008 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 12:03:37,068 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 12:03:37,103 - voice_agent - INFO - WebSocket connection accepted. Stream ID: de495b2f-7279-46be-99e7-28665978ade4
+2025-05-21 12:03:45,938 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 12:03:48,182 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 13:26:45,356 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:26:45,359 - voice_agent - INFO - Starting FastAPI server.
+2025-05-21 13:26:52,433 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:26:52,523 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:26:54,258 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 13:26:55,503 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 52dd67e6-3b5c-441c-8e11-d5423633abbe
+2025-05-21 13:27:10,261 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 13:27:10,331 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 13:27:10,366 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 005e3c9e-8075-45d4-8802-115c89e0b0ed
+2025-05-21 13:27:35,089 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 13:27:37,563 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 13:30:52,112 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:30:52,115 - voice_agent - INFO - Starting FastAPI server.
+2025-05-21 13:30:56,499 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:30:56,583 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:31:02,839 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 13:31:03,396 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 02fd7299-7d59-42e3-9aee-bfcc4bf25ce0
+2025-05-21 13:31:14,050 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 13:31:14,153 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 13:31:14,196 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 23ead311-848f-4a08-9b8d-b57ec4ea2752
+2025-05-21 13:31:43,799 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 13:31:45,985 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 13:42:22,629 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:42:22,634 - voice_agent - INFO - Starting FastAPI server.
+2025-05-21 13:42:25,761 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:42:25,845 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 13:42:38,684 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 13:42:39,144 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 5f3641b6-7a95-42ae-b9ed-29f379994c30
+2025-05-21 13:42:46,356 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 13:42:46,412 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 13:42:46,449 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 34dcfd3c-f3b9-4a71-9eb7-d40d6efeb66f
+2025-05-21 13:46:02,742 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 13:46:04,853 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 15:07:14,750 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:07:14,762 - voice_agent - INFO - Starting FastAPI server.
+2025-05-21 15:07:20,426 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:07:20,523 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:07:33,042 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 15:07:34,876 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 73bda6d8-1e32-4f1c-b886-5c3c7d40d667
+2025-05-21 15:07:47,596 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:07:47,696 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 15:07:47,760 - voice_agent - INFO - WebSocket connection accepted. Stream ID: cedb8ca3-80d8-4b6c-bacd-5df7c6044e2f
+2025-05-21 15:07:47,764 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 15:07:59,220 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:10:33,856 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:10:33,966 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:12:09,070 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:12:09,175 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:12:16,721 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 15:12:17,269 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 4037265c-3be5-4f18-825b-9f28dadab42a
+2025-05-21 15:12:31,405 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:13:15,165 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:13:15,169 - voice_agent - INFO - Starting FastAPI server.
+2025-05-21 15:13:24,739 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:13:25,122 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:15:36,876 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 15:15:37,511 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 8c8ee7fd-1fb7-4b6c-b567-c56460758373
+2025-05-21 15:15:46,732 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:15:46,903 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 15:15:47,047 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 7e87d0a7-4371-47b7-b5aa-f24f0a874bd2
+2025-05-21 15:15:47,047 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 15:16:07,882 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:16:32,159 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 15:16:32,250 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 165259d0-c5f4-4152-9ee2-015728233b7d
+2025-05-21 15:16:38,718 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:16:38,799 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 15:16:38,860 - voice_agent - INFO - WebSocket connection accepted. Stream ID: e93b3cd6-2e90-445c-bc67-59a090013111
+2025-05-21 15:16:38,860 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 15:17:03,973 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:21:02,530 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:21:02,623 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:21:11,527 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 15:21:12,348 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 6f9ba8ba-254b-4b58-a1ea-f857f41b4d2d
+2025-05-21 15:21:19,388 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:21:19,444 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 15:21:19,477 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 7f3256e5-0746-4f6b-b85a-b7acf6e604b5
+2025-05-21 15:21:23,300 - voice_agent - WARNING - No text received from WebSocket.
+2025-05-21 15:21:23,301 - voice_agent - ERROR - Error in WebSocket communication: Cannot call "receive" once a disconnect message has been received.
+2025-05-21 15:21:23,301 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 15:21:24,314 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:30:11,516 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:30:11,617 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:32:30,728 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:32:30,730 - voice_agent - INFO - Starting FastAPI server.
+2025-05-21 15:32:33,728 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:32:33,802 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 15:32:54,308 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 15:32:54,800 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: afdd5584-b623-457e-98b3-72333c7db86a
+2025-05-21 15:33:04,618 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:33:04,698 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 15:33:04,756 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 0ce74ce0-70b2-4221-b26b-a7f2aef35573
+2025-05-21 15:33:13,037 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 15:33:15,963 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 16:12:25,135 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 16:12:25,227 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 16:12:27,326 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 16:12:28,671 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: e0b5f13d-4b6b-4a9b-96da-ac68316270da
+2025-05-21 16:12:36,717 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 16:12:36,777 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 16:12:36,812 - voice_agent - INFO - Received data from WebSocket: {'sequenceNumber': 0, 'event': 'start', 'start': {'callId': 'e0b5f13d-4b6b-4a9b-96da-ac68316270da', 'streamId': '5956249c-026c-4669-a317-d8cdae907424', 'accountId': '10207133', 'tracks': ['inbound'], 'mediaFormat': {'encoding': 'audio/x-l16', 'sampleRate': 8000}}, 'extra_headers': '{}'}
+2025-05-21 16:12:36,812 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 5956249c-026c-4669-a317-d8cdae907424
+2025-05-21 16:12:45,522 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 16:12:48,164 - voice_agent - INFO - WebSocket connection closed.
+2025-05-21 16:17:41,527 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 16:17:41,645 - voice_agent - INFO - Loading environment variables from .env file
+2025-05-21 16:17:41,659 - voice_agent - INFO - Start call endpoint accessed.
+2025-05-21 16:17:42,280 - voice_agent - INFO - Outbound call initiated successfully. Call UUID: 3a2448c1-dc75-4931-ad08-9692af401954
+2025-05-21 16:17:57,434 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 16:17:57,489 - voice_agent - INFO - WebSocket endpoint accessed.
+2025-05-21 16:17:57,532 - voice_agent - INFO - Received data from WebSocket: {'type': 'websocket.receive', 'text': '{\n\t"sequenceNumber":\t0,\n\t"event":\t"start",\n\t"start":\t{\n\t\t"callId":\t"3a2448c1-dc75-4931-ad08-9692af401954",\n\t\t"streamId":\t"18dad8fa-e04a-47ab-adc7-9423f6f18990",\n\t\t"accountId":\t"10207133",\n\t\t"tracks":\t["inbound"],\n\t\t"mediaFormat":\t{\n\t\t\t"encoding":\t"audio/x-l16",\n\t\t\t"sampleRate":\t8000\n\t\t}\n\t},\n\t"extra_headers":\t"{}"\n}'}
+2025-05-21 16:17:57,532 - voice_agent - INFO - WebSocket connection accepted. Stream ID: 18dad8fa-e04a-47ab-adc7-9423f6f18990
+2025-05-21 16:18:29,996 - voice_agent - INFO - Webhook endpoint accessed.
+2025-05-21 16:18:32,019 - voice_agent - INFO - WebSocket connection closed.

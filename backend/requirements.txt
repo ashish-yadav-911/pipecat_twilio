@@ -1,0 +1,19 @@
+# pipecat-ai[elevenlabs,openai,silero,deepgram]
+# fastapi
+# uvicorn
+# python-dotenv
+# loguru
+# twilio
+# requests
+# elevenlabs
+# plivo
+# pipecat-ai[elevenlabs]
+
+fastapi
+uvicorn
+python-dotenv
+loguru
+twilio
+requests
+plivo
+pipecat-ai[elevenlabs,openai,silero,deepgram]
